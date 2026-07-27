@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+figures/
+*.csv
+data/*.parquet
+!data/*.gitkeep
+
