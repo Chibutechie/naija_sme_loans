@@ -25,7 +25,7 @@ logger = logging.getLogger("orchestrator")
 
 def main():
     parser = argparse.ArgumentParser(
-        description="ETL pipeline for Nigerian SME loan data"
+        description="ETL pipeline for Nigerian Bank Transaction"
     )
     parser.add_argument(
         "--skip-extract",
